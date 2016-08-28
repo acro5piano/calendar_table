@@ -1,4 +1,4 @@
-module Calendar
+module CalendarTable
   class Configuration
     attr_accessor :class_sunday,
                   :class_monday,
